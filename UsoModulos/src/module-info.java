@@ -1,0 +1,4 @@
+module UsoModulos {
+
+    requires PruebasModulos;
+}
